@@ -1,0 +1,7 @@
+name = "SSO"
+uuid = "9f5d9331-6f7c-44e1-a618-fc11424a7f4d"
+authors = ["Roy Tseng <stu1216454162002@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+Plotly = "58dd65bb-95f3-509e-9936-c39a10fdeae7"
